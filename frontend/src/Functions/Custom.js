@@ -6,7 +6,7 @@ export function useCustom() {
     const [navbar, setNavbar] = useState(false)   //to change navbar
     const [page, setPage] = useState(false)    //to navigate pages
     const navigate = useNavigate()
-
+// to navigate
     const navigateTo = ()=>{
         navigate("/blog")
     }
