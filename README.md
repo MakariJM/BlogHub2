@@ -50,6 +50,6 @@ BlogHub is a collaborative effort by Group 1 to create an innovative blogging pl
 
 We welcome contributions from developers interested in improving BlogHub. Feel free to submit pull requests with new features, bug fixes, or enhancements. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
+## Authors
 
-This project is licensed under the [MIT License](LICENSE).
+Mark Kelsall, Weddy Makena, Joe Kaleli, Julius Makari.
